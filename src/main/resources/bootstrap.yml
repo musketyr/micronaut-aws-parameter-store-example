@@ -1,0 +1,11 @@
+micronaut:
+    function:
+        name: parameter-store-reader
+    config-client:
+        enabled: true
+#aws:
+#    client:
+#        system-manager:
+#            parameterstore:
+#                enabled: true
+#                useSecureParameters: true
